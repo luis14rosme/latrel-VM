@@ -175,7 +175,7 @@
             button1.Name = "button1";
             button1.Size = new Size(83, 23);
             button1.TabIndex = 9;
-            button1.Text = "00000000000000000000000000000";
+            button1.Text = "cadastre-se";
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click_2;
             // 
